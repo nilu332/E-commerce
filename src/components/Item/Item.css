@@ -9,12 +9,12 @@
     gap: 20px;
 }
 .item-price-new{
-    color: #02193f;
+    color: #011a41;
     font-size: 18px;
     font-weight: 600;
 }
 .item-price-old{
-    color: #7e7e7e;
+    color: #928f8f;
     font-size: 18px;
     font-weight: 500;
     text-decoration: line-through; 
